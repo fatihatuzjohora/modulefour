@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+    
+}
+.panda-pic{
+    width: 400px;
+    margin-top: 10px;
+    /* height: 300px; */
+    /* padding-top: 20px; */
+    /* margin: auto; */
+}
+.panda-pic img{
+    width: 100%;
+}
+.search{
+    /* margin: 10px auto ; */
+}
+.sectiom{
+    width: 800px;
+    margin: auto;
+    box-shadow: 0px 10px 20px 0px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 2px;
+}
+/* task text */
+table{
+    border-collapse:collapse;
+}
+td, th{
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+
